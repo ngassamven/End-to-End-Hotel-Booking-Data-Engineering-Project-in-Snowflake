@@ -11,7 +11,7 @@ Hotel Analytics est un projet d’analyse de données basé sur **Snowflake** qu
 
 ## 📌 Aperçu du projet
 
-![Architecture Overview](images/architecture.png)
+![Architecture Overview](architecture.png)
 
 L’objectif est de mettre en place un pipeline data complet :
 - Ingestion multi-sources
