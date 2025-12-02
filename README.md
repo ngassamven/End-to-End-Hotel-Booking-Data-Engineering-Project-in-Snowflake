@@ -53,7 +53,7 @@ Cette structure garantit qualité, traçabilité et performance.
 
 ## 📊 Fonctionnalités principales
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 - Nettoyage & transformation automatique
 - Organisation des données par couche
